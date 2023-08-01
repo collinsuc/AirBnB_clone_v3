@@ -211,5 +211,5 @@ Uses [Travis-CI](https://travis-ci.org/) to run all tests on all commits to the
 github repo
 
 ## Authors 
-* __ yohomeansmoney __ (https://github.com/yohomeansmoney)
-* __ KishMiracle __ (https://github.com/KishMiracle)
+* __ COLLINS AHUCHAOGU __ (https://github.com/collinsuc)
+* __ VICTORIA EDORH __ (https://github.com/Vikitohyah)
